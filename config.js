@@ -62,8 +62,8 @@ window.CONFIG = {
   // posicao: ajuste pelo editor visual (?editor=1), escolhendo “PIX (copiar chave)”.
   pix: {
     ativo: true,
-    chave: "22003483713",
-    posicao: {"left":29.068370607028754,"top":71.8250896805022,"width":42.894562450079874,"height":4.632691840858734}
+    chave: "11943938272",
+    posicao: {"left":40.723316443690095,"top":68.14269531139912,"width":43.91692666733227,"height":4.0573178578662255}
   },
 
   // ----- TEXTOS DOS BOTÕES -----------------------------------------------
@@ -90,10 +90,10 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":48.25240552615814,"height":5.61357710872642} },
-    dresscode: { mostrarTexto:false, posicao: {"left":30.281469648562297,"top":84.58400621694679,"width":39.22046600439297,"height":5.0793992128466705} },
-    programacao: { mostrarTexto:false, posicao: {left:25,top:84,width:50,height:7} },
-    manual: { mostrarTexto:false, posicao: {"left":29.66802927815495,"top":84.3538491611661,"width":41.060693515375405,"height":5.309555171188598} }
+    presentes: { mostrarTexto:false, posicao: {"left":18.883709190295527,"top":83.02462601700749,"width":62.56550456769169,"height":6.7643250747114365} },
+    dresscode: { mostrarTexto:false, posicao: {"left":23.32940545127795,"top":91.14326611125729,"width":53.32909532248402,"height":6.115074138135233} },
+    manual: { mostrarTexto:false, posicao: {"left":22.92041920427316,"top":90.33774385199433,"width":53.73801916932908,"height":5.769847333974414} },
+    programacao: { mostrarTexto:false, posicao: {"left":20.09264863718051,"top":86.76179687426608,"width":58.99680823182907,"height":6.539699057703945} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -102,12 +102,12 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:23.813912676518303, top:62.767526587169115, width:12.89594304816294, height:7.421642932577662 },
-        map: { left:43.55821042428059, top:63.11272794326478, width:13.158295580151702, height:6.681785706893529 },
-        gift: { left:64.21144792020782, top:62.871764959008175, width:12.615012854432905, height:7.377663130789937 },
-        dress: { left:23.813912676518303, top:73.11343239168711, width:12.615012854432905, height:7.032430839435218 },
-        manual: { left:43.5582, top:73.1, width:13.1583, height:7.03 },
-        programacao: { left:64.2114, top:73.1, width:12.615, height:7.03 }
+        confirm: { left:15.63501453853907, top:68.40618898664262, width:18.416703581309903, height:9.147764881555187 },
+        map: { left:40.900041619368444, top:67.94586588859775, width:18.065646942971192, height:9.55865562185607 },
+        gift: { left:66.05170663127012, top:68.05013519569587, width:18.34024311102236, height:9.33393116116037 },
+        dress: { left:15.83945306190169, top:80.59329856034483, width:18.749198157947284, height:9.103780690012343 },
+        manual: { left:40.491107348242814, top:80.69493481959906, width:18.679060533146966, height:8.756121948977526 },
+        programacao: { left:65.43823394069489, top:80.81001663980574, width:18.340245856629394, height:8.756121948977526 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
